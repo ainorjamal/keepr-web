@@ -318,6 +318,7 @@ export default {
 }
 
 .form-group input {
+  width: 100%;
   padding: 12px 16px;
   border: 2px solid #e0e0e0;
   border-radius: 8px;
@@ -337,6 +338,7 @@ export default {
 
 .password-input-wrapper {
   position: relative;
+  width: 100%;
 }
 
 .toggle-password {
